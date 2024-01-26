@@ -4,7 +4,7 @@
     left: 0;
     top: 0;
     bottom: 0;
-    width: 225px;
+    width: 300px;
     background-color: #000000;
     padding: 12px;
 }
@@ -54,8 +54,7 @@
 }
 
 /* MENU LATERAL - ÁREA DA BIBLIOTECA */
-/* Dimensão da Área */
-.biblioteca{
+.biblioteca{/* Dimensão da Área */
     /* Dimensionamento */
     background-color: #121212;
     border-radius: 8px;
@@ -80,7 +79,7 @@
 }
 
 
-.biblioteca .biblioteca__button{
+.biblioteca .biblioteca__button{/* Dimensão Botão */
     /* Dimensionamento */
     display: flex;
     margin-right: 10px;
@@ -98,11 +97,11 @@
     text-transform: none;
 }
 
-.biblioteca .biblioteca__button:hover{
+.biblioteca .biblioteca__button:hover{/* Efeito do botão */
     color: #ffffff;
 }
 
-.biblioteca .biblioteca__button .fa{
+.biblioteca .biblioteca__button .fa{/* Dimensão Ícone do Botão */
     /* Dimensionamento da Classe dos ícones*/
     font-size: 20px;
     margin-right: 10px;
@@ -121,7 +120,7 @@
     border-radius: 50%;
 }
 
-.playlist{
+.playlist{/* Dimensão da Área */
     /* Dimensionamento */
     display: flex;
     align-items: flex-start;
@@ -145,20 +144,17 @@
     flex-direction: column;
 }
 
-.playlist__content .text{
-    /* Formatação do Texto */
+.playlist__content .text{/* Formatação do Texto */
     padding-bottom: 14px;
     color: #fff;
     font-family: "DM Sans", sans-serif;
 }
 
-.playlist__content .title{
-    /* Formatação do título */
+.playlist__content .title{/* Formatação do título */
     font-weight: 700;
 }
 
-.playlist__content .subtitle{
-    /* Formatação do subtitulo */
+.playlist__content .subtitle{/* Formatação do subtitulo */
     font-weight: 500;
     font-size: 12px;
 }
@@ -183,7 +179,7 @@
     font-family: "DM Sans", sans-serif;
 }
 
-.podcast{
+.podcast{/* Dimensão da Área */
     /* Dimensionamento */
     display: flex;
     align-items: flex-start;
@@ -205,20 +201,17 @@
     flex-direction: column;
 }
 
-.podcast__content .text{
-    /* Formatação do Texto */
+.podcast__content .text{/* Formatação do Texto */
     padding-bottom: 14px;
     color: #fff;
     font-family: "DM Sans", sans-serif;
 }
 
-.podcast__content .title{
-    /* Formatação do título */
+.podcast__content .title{/* Formatação do título */
     font-weight: 700;
 }
 
-.podcast__content .subtitle{
-    /* Formatação do subtitulo */
+.podcast__content .subtitle{/* Formatação do subtitulo */
     font-weight: 500;
     font-size: 12px;
 }
@@ -243,11 +236,12 @@
     font-family: "DM Sans", sans-serif;
 }
 
-.sidebar .cookies{
+.sidebar .cookies{/* Dimensionamento da Área*/
     margin: 25px 20px;
 }
 
 .sidebar .cookies a{
+    /* Formatação do Texto */
     color: #b3b3b3;
     font-weight: 500;
     font-size: 10px;
@@ -256,21 +250,69 @@
 }
 
 .sidebar .cookies a:hover{
+    /* Formatação do Efeito */
     text-decoration: underline;
 }
 
-.languages .languages__button{
+.languages .languages__button{/* Dimensionamento do Botão */
+    /* Dimensionamento do Botão */
     align-items: center;
     background-color: transparent;
     border: 1px solid #878787;
-    color: #fff;
-    font-weight: bold;
     cursor: pointer;
     width: 170px;
     margin: 8px;
     padding: 8px;
-    border-radius: 20px;  
+    border-radius: 20px;
+
+    /* Formatação do Texto */
+    color: #fff;
+    font-weight: bold;
 }
 
-/* footer montar o rodapé usando o 
-gradiente, botão e formatação do texto */
+/* DESAFIO AULA 2
+Montar o footer/montar o rodapé usando o 
+gradiente, botão e formatação do texto 
+*/
+
+.rodape{/* Dimensionamento da Área*/
+    /* Dimensão da Área */
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to right, #ae2896, #509bf5);
+    padding: 15px 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.rodape .rodape__content{
+    flex-shrink: 0;
+}
+
+.rodape .rodape__title{
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.rodape .rodape__subtitle{
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.rodape button{
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 14px 30px;
+    border: 0;
+    border-radius: 40px;
+    cursor: pointer;
+    flex-shrink: 0;
+}

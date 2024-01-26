@@ -1,81 +1,104 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <title>Spotify Imersão</title>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <link rel="stylesheet" href="reset.css">
-        <link rel="stylesheet" href="style.css">
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/solid.css" integrity="sha384-Tv5i09RULyHKMwX0E8wJUqSOaXlyu3SQxORObAI08iUwIalMmN5L6AvlPX2LMoSE" crossorigin="anonymous">
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/fontawesome.css" integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous">
+    <title>Spotify Imersão</title>
 
-    </head>
-    <body>
-        <div class="sidebar">
-            <nav class="sidebar__navigation">
-              <div class="logo">
-                <a href="">
-                  <img src="assets/icons/logo-spotify.png" alt="Logo Spotify" />
-                </a>
-              </div>
-              <ul>
-                <li>
-                  <a href="">
-                    <span class="fa fa-home"></span>
-                    <span>Início</span>
-                  </a>
-                </li>
-                <li>
-                  <a href="">
-                    <span class="fa fa-search"></span>
-                    <span>Buscar</span>
-                  </a>
-                </li>
-              </ul>
-            </nav>
-        
-            <div class="biblioteca">
-              <div class="biblioteca__content">
-                <button class="biblioteca__button">
-                  <span class="fa fas fa-book"></span>
-                  <span>Sua biblioteca</span>
-                </button>
-                <span class="fa fa-plus"></span>
-              </div>
-        
-              <section class="playlist">
-                <div class="playlist__content">
-                  <span class="text title">Crie sua primeira playlist</span>
-                  <span class="text subtitle">É fácil, vamos te ajudar.</span>
-                  <button class="playlist__button">
-                    <span>Criar playlist</span>
-                  </button>
-                </div>
-              </section>
+    <link rel="stylesheet" href="src/styles/reset.css">
+    <link rel="stylesheet" href="src/styles/sidebar-footer.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/solid.css"
+      integrity="sha384-Tv5i09RULyHKMwX0E8wJUqSOaXlyu3SQxORObAI08iUwIalMmN5L6AvlPX2LMoSE" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/fontawesome.css"
+      integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous">
 
-              <section class="podcast">
-                <div class="podcast__content">
-                  <span class="text title">Que tal seguir um podcast novo?</span>
-                  <span class="text subtitle">Avisaremos você sobre novos episódios.</span>
-                  <button class="podcast__button">
-                    <span>Explore podcasts</span>
-                  </button>
-                </div>
-              </section>
-        
-              <div class="cookies">
-                <a href="">Cookies</a>
-              </div>
-        
-              <div class="languages">
-                <button class="languages__button">
-                  <span class="fa fa-globe"></span>
-                  <span>Português do Brasil</span>
-                </button>
-              </div>
-            </div>
+  </head>
+
+  <body>
+    <div class="sidebar">
+      <nav class="sidebar__navigation">
+        <div class="logo">
+          <a href="">
+            <img src="src/assets/icons/logo-spotify.png" alt="Logo Spotify" />
+          </a>
         </div>
-    </body>
+        <ul>
+          <li>
+            <a href="">
+              <span class="fa fa-home"></span>
+              <span>Início</span>
+            </a>
+          </li>
+          <li>
+            <a href="">
+              <span class="fa fa-search"></span>
+              <span>Buscar</span>
+            </a>
+          </li>
+        </ul>
+      </nav>
+
+      <div class="biblioteca">
+        <div class="biblioteca__content">
+          <button class="biblioteca__button">
+            <span class="fa fas fa-book"></span>
+            <span>Sua biblioteca</span>
+          </button>
+          <span class="fa fa-plus"></span>
+        </div>
+
+        <section class="playlist">
+          <div class="playlist__content">
+            <span class="text title">Crie sua primeira playlist</span>
+            <span class="text subtitle">É fácil, vamos te ajudar.</span>
+            <button class="playlist__button">
+              <span>Criar playlist</span>
+            </button>
+          </div>
+        </section>
+
+        <section class="podcast">
+          <div class="podcast__content">
+            <span class="text title">Que tal seguir um podcast novo?</span>
+            <span class="text subtitle">Avisaremos você sobre novos episódios.</span>
+            <button class="podcast__button">
+              <span>Explore podcasts</span>
+            </button>
+          </div>
+        </section>
+
+        <div class="cookies">
+          <a href="">Cookies</a>
+        </div>
+
+        <div class="languages">
+          <button class="languages__button">
+            <span class="fa fa-globe"></span>
+            <span>Português do Brasil</span>
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- DESAFIO AULA 2
+      Montar o footer/montar o rodapé usando o 
+      gradiente, botão e formatação do texto  
+    -->
+    <footer class="rodape">
+      <div class="rodape__content">
+        <p class="rodape__title">Testar o premium de graça</p>
+        <p class="rodape__subtitle">
+          Inscreva-se para curtir música ilimitada e podcasts só com 
+          alguns anúncios. Não precisa de cartão de crédito.
+        </p>
+      </div>
+
+      <div class="button">
+        <button type="button">Inscreva-se grátis</button>
+      </div>
+    </footer>
+  </body>
+
 </html>
