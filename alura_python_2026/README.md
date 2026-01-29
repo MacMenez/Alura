@@ -65,7 +65,7 @@ Link do projeto:
 * [Link do projeto](https://github.com/guilhermeonrails/idcp-alura/blob/T8R7W1/Todas_as_aulas_Imers%C3%A3o_dados_com_Python_Alura_Agosto_2025.ipynb).
 * [Como criar um repositório remoto em GitHub](https://www.alura.com.br/artigos/criando-repositorio-remoto-github).
 
-#### Links importantes para você acompanhar a aula
+#### Links importantes para você acompanhar a aula 01
 
 * [Pandas Python: o que é, para que serve e como instalar](https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar)
 * [Python: a origem do nome](https://www.alura.com.br/artigos/python-origem-do-nome)
@@ -73,6 +73,49 @@ Link do projeto:
 * Participe do canal do Whatsapp e fique por dentro de todas as novidades: [Acesse aqui](https://whatsapp.com/channel/0029Vb6niwxHQbS3oWloBg0w)
 
 ## Aula 02: Aprenda a Limpar e Preparar os Dados (28/01)
+
+Imersão Dados com Python II | Aula 02
+
+### Aprenda a Limpar e Preparar os Dados
+
+Boas-vindas à sua próxima aula! Chegou a hora de mergulhar na segunda aula da Imersão Dados com Python e avançar mais um nível na sua jornada profissional. Vamos nessa?
+
+[Link do projeto](https://github.com/guilhermeonrails/idcp-alura/blob/ZQ19L5/Roteiro_Imers%C3%A3o_Dados_com_Python.ipynb).
+
+#### Introdução | Aprenda a Limpar e Preparar os Dados
+
+Nesta aula, você vai aprender a tratar dados de forma mais estruturada, preparando a base para análises mais assertivas. O foco está em identificar e lidar com dados faltantes, organizar colunas, aplicar filtros e gerar estatísticas descritivas que ajudam a entender melhor os dados e extrair insights relevantes.
+
+Nesta aula, você vai:
+
+* Aprender técnicas para renomear colunas de maneira clara e organizada.
+* Identificar e tratar dados faltantes em bases reais.
+* Aplicar filtros simples para selecionar informações relevantes.
+* Gerar estatísticas descritivas que apoiam a análise e tomada de decisão.
+
+Link do projeto:
+
+* Link do projeto.
+* Como criar um repositório remoto em GitHub.
+
+#### Links importantes para você acompanhar a aula 02
+
+* [Pandas: limpeza e tratamento de dados](https://www.alura.com.br/conteudo/pandas-limpeza-tratamento-dados)
+* [Acesse o Guia de Mergulho](https://alura.tv/guiapython)
+* Participe do grupo do Whatsapp e fique por dentro de todas as novidades: [Acesse aqui](https://whatsapp.com/channel/0029Vb6niwxHQbS3oWloBg0w)
+
+#### Mergulhe mais profundo
+
+Aprofunde-se nos seguintes tópicos:
+
+* Mergulhe a fundo em carreiras tech com o [Techguide](https://techguide.sh/pt-BR/path/data-science/).
+* [Como remover linhas e colunas no Pandas](https://www.alura.com.br/artigos/como-remover-linhas-e-colunas-no-pandas).
+* [Estatística descritiva: o que é e quais os tipos de medidas de tendência central](https://www.alura.com.br/artigos/estatistica-descritiva).
+
+**Divulgue seu projeto**
+Quem compartilha seus projetos ganha mais visibilidade no mercado! Poste seu progresso no LinkedIn e use a hashtag #imersao-dados-python para interagir com outros devs e até chamar atenção de recrutadores!
+
+Estamos ansiosos para mergulhar em aprendizado junto com você! Bom mergulho e até a próxima aula.
 
 ## Aula 03: Crie Gráficos e conte histórias com Dados (29/01)
 
