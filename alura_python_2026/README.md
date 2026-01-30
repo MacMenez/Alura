@@ -119,4 +119,43 @@ Estamos ansiosos para mergulhar em aprendizado junto com você! Bom mergulho e a
 
 ## Aula 03: Crie Gráficos e conte histórias com Dados (29/01)
 
+Imersão Dados com Python II | Aula 03
+
+### Crie Gráficos e conte histórias com Dados
+
+Boas-vindas à sua próxima aula! Chegou a hora de mergulhar na terceira aula da Imersão Dados com Python e avançar mais um nível na sua jornada profissional. Vamos nessa?
+
+* [Link do projeto](https://github.com/guilhermeonrails/idcp-alura/blob/M4N2K8/Todas_as_aulas_Imers%C3%A3o_dados_com_Python_Alura_Agosto_2025.ipynb).
+
+#### Introdução Aula 03
+
+Nesta aula, você vai aprender a criar gráficos para visualizar e explorar informações presentes nos dados. Vamos explorar diferentes tipos de gráficos estatísticos como: histogramas, boxplots e gráficos de barras. Esse passo é importante para identificar padrões, facilitar a interpretação e comunicar os resultados de forma mais clara.
+
+Nesta aula, você vai:
+
+* Criar gráficos estatísticos para analisar os dados de forma visual.
+* Construir histogramas para observar a distribuição das informações.
+* Utilizar bibliotecas de Python que ajudam na criação de gráficos.
+* Praticar a visualização de dados para apoiar a análise e tomada de decisões.
+
+Link do projeto base:
+
+* [Link do projeto](https://github.com/guilhermeonrails/idcp-alura/blob/M4N2K8/Todas_as_aulas_Imers%C3%A3o_dados_com_Python_Alura_Agosto_2025.ipynb).
+* [Como criar um repositório remoto em GitHub](https://www.alura.com.br/artigos/criando-repositorio-remoto-github).
+
+#### Links importantes para você acompanhar a aula 03
+
+* [Histograma: o que é, exemplos, gráficos e tipos](https://www.alura.com.br/artigos/o-que-e-um-histograma)
+* [Melhorando a análise com o Boxplot](https://www.alura.com.br/artigos/melhorando-a-analise-com-o-boxplot)
+* [Acesse o Guia de Mergulho](https://alura.tv/guiapython)
+
+Participe do grupo do Whatsapp e fique por dentro de todas as novidades: A[cesse aqui](https://whatsapp.com/channel/0029Vb6niwxHQbS3oWloBg0w)
+
+Mergulhe mais profundo
+
+Aprofunde-se nos seguintes tópicos:
+* Mergulhe a fundo em carreiras tech com o [Techguide](https://techguide.sh/pt-BR/path/data-science/).
+* [Visualizando informações com um gráfico](https://www.alura.com.br/artigos/visualizando-informacoes-com-um-grafico).
+* [Data Visualization: conhecendo as bibliotecas do Python](https://www.alura.com.br/artigos/data-visualization-conhecendo-bibliotecas-python).
+
 ## Aula 04: Construa um Dashboard interativo (30/01)
