@@ -154,8 +154,37 @@ Participe do grupo do Whatsapp e fique por dentro de todas as novidades: A[cesse
 Mergulhe mais profundo
 
 Aprofunde-se nos seguintes tópicos:
+
 * Mergulhe a fundo em carreiras tech com o [Techguide](https://techguide.sh/pt-BR/path/data-science/).
 * [Visualizando informações com um gráfico](https://www.alura.com.br/artigos/visualizando-informacoes-com-um-grafico).
 * [Data Visualization: conhecendo as bibliotecas do Python](https://www.alura.com.br/artigos/data-visualization-conhecendo-bibliotecas-python).
 
 ## Aula 04: Construa um Dashboard interativo (30/01)
+
+Imersão Dados com Python II | Aula 04
+
+### Construa um Dashboard interativo
+
+Bem-vindos à quarta e última aula! É hora de fechar a Imersão Dados com Python com chave de ouro e dar mais um passo importante na sua jornada profissional.
+
+* [Link do projeto](https://github.com/guilhermeonrails/idcp-alura/blob/A7X3D9/aulas.ipynb).
+    * Acesse [aqui](https://docs.google.com/document/d/14-bM6uBTGpAmauApZ1BwMc5U4bIeq6GUesufvzsNyQI/edit?usp=sharing) o tutorial sobre como criar um repositório no GitHub.
+* [Código do VSCode](https://github.com/almeidamarcell/imersao-dados-python-alura-2025).
+
+#### Introdução Aula 04
+
+Nesta aula, você vai conhecer a biblioteca Streamlit e aprender a criar um dashboard interativo de forma prática. Com ele, será possível visualizar dados, aplicar filtros e gerar gráficos em tempo real, facilitando a análise e a apresentação das informações.
+
+Nesta aula, você vai:
+
+Conhecer a biblioteca Streamlit para criar dashboards interativos.
+Desenvolver interfaces simples para visualização de dados.
+Aplicar filtros dinâmicos para explorar os dados em tempo real.
+Gerar gráficos direto no dashboard para facilitar a análise.
+
+Link do projeto base:
+
+* [Link do projeto](https://github.com/guilhermeonrails/idcp-alura/blob/A7X3D9/aulas.ipynb).
+    * Acesse [aqui](https://docs.google.com/document/d/14-bM6uBTGpAmauApZ1BwMc5U4bIeq6GUesufvzsNyQI/edit?usp=sharing) o tutorial sobre como criar um repositório no GitHub.
+* [Código do VSCode](https://github.com/almeidamarcell/imersao-dados-python-alura-2025).
+
