@@ -1,0 +1,29 @@
+python -m venv venv
+
+------------------------
+Esse erro que você está enfrentando está relacionado à política de execução do PowerShell no Windows. Por padrão, o PowerShell pode restringir a execução de scripts não assinados, o que impede a ativação do seu ambiente virtual.
+
+Para resolver isso, você pode alterar a política de execução do PowerShell. Siga os passos abaixo:
+
+Abra o PowerShell como administrador. Para fazer isso, procure por "PowerShell" no menu iniciar, clique com o botão direito e selecione "Executar como administrador".
+
+No PowerShell, digite o seguinte comando e pressione Enter:
+
+Set-ExecutionPolicy RemoteSigned
+
+Você será solicitado a confirmar a alteração. Digite Y (Yes) e pressione Enter.
+
+Agora, feche o PowerShell e volte para o seu terminal no VSCode.
+
+Tente ativar o ambiente virtual novamente com o comando:
+.venv\Scripts\activate
+
+Isso deve resolver o problema e permitir que você ative seu ambiente virtual. Se você tiver mais dúvidas ou precisar de mais ajuda, estou aqui para ajudar! 😊
+
+------------------------
+
+.venv\Scripts\activate
+
+pip install -r requirements.txt
+
+streamlit run app.py
