@@ -72,6 +72,19 @@ Link do projeto:
 * [Acesse o Guia de Mergulho](https://alura.tv/guiapython)
 * Participe do canal do Whatsapp e fique por dentro de todas as novidades: [Acesse aqui](https://whatsapp.com/channel/0029Vb6niwxHQbS3oWloBg0w)
 
+#### Mergulhe mais profundo | Aula 1
+
+Aprofunde-se nos seguintes tópicos:
+
+* Mergulhe a fundo em carreiras tech com o [Techguide](https://techguide.sh/pt-BR/path/data-science/).
+* [O que é Ciências de Dados?](https://www.alura.com.br/artigos/ciencias-dados)
+* [Google Colab: o que é, tutorial de como usar e criar códigos](https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar)
+
+Divulgue seu projeto
+Quem compartilha seus projetos ganha mais visibilidade no mercado! Poste seu progresso no LinkedIn e use a hashtag #imersao-dados-python para interagir com outros devs e até chamar atenção de recrutadores!
+
+Estamos ansiosos para mergulhar em aprendizado junto com você! Bom mergulho e até a próxima aula.
+
 ## Aula 02: Aprenda a Limpar e Preparar os Dados (28/01)
 
 Imersão Dados com Python II | Aula 02
@@ -159,6 +172,32 @@ Aprofunde-se nos seguintes tópicos:
 * [Visualizando informações com um gráfico](https://www.alura.com.br/artigos/visualizando-informacoes-com-um-grafico).
 * [Data Visualization: conhecendo as bibliotecas do Python](https://www.alura.com.br/artigos/data-visualization-conhecendo-bibliotecas-python).
 
+#### Como compartilhar seu Projeto | Aula 3
+
+Compartilhe seu codespace com outras pessoas pelo [GitHub](https://github.com/):
+
+* Acesse [aqui](https://youtu.be/riykEaF2PI8) o tutorial para saber como subir seu projeto no GitHub;
+
+* Na página inicial do [GitHub](https://github.com/), clique no botão "New" (Novo) localizado no canto superior direito;
+
+* Preencha o nome do seu repositório e uma breve descrição. Escolha se deseja que o repositório seja público (visível para todos) ou privado (acessível apenas por convite);
+
+* Você pode optar por inicializar o repositório com um arquivo README, que é uma boa prática para fornecer informações sobre o projeto. Além disso, você pode escolher uma licença para o seu código, se desejar;
+
+* Você pode especificar tipos de arquivos que o Git deve ignorar ao rastrear alterações. Por exemplo, você pode selecionar uma linguagem de programação específica para gerar um arquivo .gitignore correspondente;
+
+* Se o seu projeto se encaixa em um dos modelos de projeto disponíveis, você pode escolher um para iniciar com estrutura pré-definida;
+
+* Após preencher todas as informações necessárias, clique no botão "Create repository" (Criar repositório) para criar o seu repositório;
+
+* Para saber mais confira os [primeiros passos no GitHub](https://www.alura.com.br/artigos/o-que-e-git-github?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=20946398532&hsa_grp=153091871930&hsa_ad=688089973825&hsa).
+
+##### Divulgue seu projeto
+
+Quem compartilha seus projetos ganha mais visibilidade no mercado! Poste seu progresso no LinkedIn e use a hashtag #imersao-dados-python para interagir com outros devs e até chamar atenção de recrutadores!
+
+Estamos ansiosos para mergulhar em aprendizado junto com você! Bom mergulho e até a próxima aula.
+
 ## Aula 04: Construa um Dashboard interativo (30/01)
 
 Imersão Dados com Python II | Aula 04
@@ -177,14 +216,53 @@ Nesta aula, você vai conhecer a biblioteca Streamlit e aprender a criar um dash
 
 Nesta aula, você vai:
 
-Conhecer a biblioteca Streamlit para criar dashboards interativos.
-Desenvolver interfaces simples para visualização de dados.
-Aplicar filtros dinâmicos para explorar os dados em tempo real.
-Gerar gráficos direto no dashboard para facilitar a análise.
+* Conhecer a biblioteca Streamlit para criar dashboards interativos.
+* Desenvolver interfaces simples para visualização de dados.
+* Aplicar filtros dinâmicos para explorar os dados em tempo real.
+* Gerar gráficos direto no dashboard para facilitar a análise.
 
 Link do projeto base:
 
 * [Link do projeto](https://github.com/guilhermeonrails/idcp-alura/blob/A7X3D9/aulas.ipynb).
-    * Acesse [aqui](https://docs.google.com/document/d/14-bM6uBTGpAmauApZ1BwMc5U4bIeq6GUesufvzsNyQI/edit?usp=sharing) o tutorial sobre como criar um repositório no GitHub.
+* Acesse [aqui](https://docs.google.com/document/d/14-bM6uBTGpAmauApZ1BwMc5U4bIeq6GUesufvzsNyQI/edit?usp=sharing) o tutorial sobre como criar um repositório no GitHub.
 * [Código do VSCode](https://github.com/almeidamarcell/imersao-dados-python-alura-2025).
 
+#### Links importantes para você acompanhar a aula 4
+
+* [Streamlit: como compartilhar sua aplicação de dados facilmente](https://www.alura.com.br/artigos/streamlit-compartilhando-sua-aplicacao-de-dados-sem-dor-de-cabeca)
+* [Acesse o Guia de Mergulho](https://alura.tv/guiapython)
+* Participe do grupo do Whatsapp e fique por dentro de todas as novidades: [Acesse aqui](https://whatsapp.com/channel/0029Vb6niwxHQbS3oWloBg0w)
+
+#### Mergulhe mais profundo aula 4
+
+Aprofunde-se nos seguintes tópicos:
+
+* Mergulhe a fundo em carreiras tech com o [Techguide](https://techguide.sh/pt-BR/path/data-science/).
+* [Como escolher o tipo de visualização de dados para análise](https://www.alura.com.br/artigos/tipo-de-visualizacao-de-dados).
+* [O que é Data Science: conceitos, aplicações práticas e um bate papo sobre carreira](https://www.alura.com.br/artigos/o-que-e-data-science).
+
+#### Como compartilhar seu Projeto | Aula 4
+
+Compartilhe seu codespace com outras pessoas pelo [GitHub](https://github.com/):
+
+* Acesse [aqui](https://youtu.be/riykEaF2PI8) o tutorial para saber como subir seu projeto no GitHub;
+
+* Na página inicial do [GitHub](https://github.com/), clique no botão "New" (Novo) localizado no canto superior direito;
+
+* Preencha o nome do seu repositório e uma breve descrição. Escolha se deseja que o repositório seja público (visível para todos) ou privado (acessível apenas por convite);
+
+* Você pode optar por inicializar o repositório com um arquivo README, que é uma boa prática para fornecer informações sobre o projeto. Além disso, você pode escolher uma licença para o seu código, se desejar;
+
+* Você pode especificar tipos de arquivos que o Git deve ignorar ao rastrear alterações. Por exemplo, você pode selecionar uma linguagem de programação específica para gerar um arquivo .gitignore correspondente;
+
+* Se o seu projeto se encaixa em um dos modelos de projeto disponíveis, você pode escolher um para iniciar com estrutura pré-definida;
+
+* Após preencher todas as informações necessárias, clique no botão "Create repository" (Criar repositório) para criar o seu repositório;
+
+* Para saber mais confira os [primeiros passos no GitHub](https://www.alura.com.br/artigos/o-que-e-git-github?utm_term=&utm_campaign=&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=20946398532&hsa_grp=153091871930&hsa_ad=688089973825&hsa).
+
+##### Divulgue seu projeto | Aula 4
+
+Quem compartilha seus projetos ganha mais visibilidade no mercado! Poste seu progresso no LinkedIn e use a hashtag #imersao-dados-python para interagir com outros devs e até chamar atenção de recrutadores!
+
+Estamos ansiosos para mergulhar em aprendizado junto com você! Bom mergulho e até a próxima aula.
