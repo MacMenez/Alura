@@ -2,6 +2,8 @@
 
 Este repositório tem como objetivo principal apresentar minhas participações em eventos, cursos e demais segmentos da Alura ao longo dos meus anos de estudos e minha carreira. Deixarei alguns comentários sobre cada tópico e um breve resumo de cada desenvolvimento e desempenho que tenho a ponderar sobre cada tópico.
 
+[Acesso da Página de imersões](https://cursos.alura.com.br/imersoes)
+
 ## Imersão Dev 2023
 
 Com a evolução dos eventos da Alura uma nova iniciativa será feita na imersão de 2023, que promete trazer diversas mudanças e aplicações web.
@@ -19,3 +21,11 @@ Imersão voltada para a linguagem JAVA que envolve o **estudo da linguagem** em 
 ### 1° Edição
 
 ### 2° Edição
+
+## Imersãop Python 2026
+
+- [x] Concluída
+
+## Imersão Arquitetura Web 2026
+
+- [] Concluída
